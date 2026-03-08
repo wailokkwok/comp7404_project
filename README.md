@@ -8,6 +8,6 @@ The code for Logistic and Linear regression is implemted by using the diffprivli
 The code for DP-Boost is implemented by using the following github link 
 https://github.com/QinbinLi/DPBoost. 
 
-To sucessfuly run this repository, a windows machine is advised. For our team, we successfully ran this code in google colab. 
+To sucessfuly run the DP boost repository, a windows machine is advised. For our team, we successfully ran this code in google colab. 
 
 Because the health care and the wine dataset is not avaliable, we avoided it in the replcation of table 2 and 3. For figures 3,4 and 5, we use the adult income dataset to showcase the same results. 
