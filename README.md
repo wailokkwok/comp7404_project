@@ -12,4 +12,4 @@ To sucessfuly run the DP boost repository, our team have to upload the DPBOOST c
 
 Because the health care and the wine dataset is not avaliable, we avoided it in the replcation of table 2 and 3. For figures 3,4 and 5, we use the adult income dataset to showcase the same results. 
 
-To replicate experiment 1, run table gen for all methods we then run table_gen.py to consolidate all results. 
+To replicate experiment 1, run table gen for all methods we then run table_gen.py to consolidate all results. For the result of experiments 3 and 4, please run other_exp.py
